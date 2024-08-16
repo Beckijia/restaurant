@@ -1,0 +1,14 @@
+.past_button{
+  margin-top: -5px;
+
+}
+
+.past_div{
+  margin-top: 30px;
+  background-color: #f9f9f9;
+}
+
+.total-amount {
+  font-size: 1.2rem; /* Increase the font size */
+  font-weight: bold; /* Make the text bold */
+}

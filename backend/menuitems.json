@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Pork with Garlic Sauce",
+      "price": 30,
+      "description": "Signature dish of Sichuan cuisine, shredded pork with garlic sauce delivers a sophisticated and addictive taste: tangy, spicy, sweet & sour."
+    },
+    {
+      "id": 2,
+      "name": "Dongbei Guo Bao Rou",
+      "price": 40,
+      "description": "Top 1 dish in northeastern China!"
+    },
+    {
+      "id": 3,
+      "name": "Pan Fried Belt Fish",
+      "price": 25,
+      "description": "A traditional pan fried fish stew using soy sauce, sugar, green onion, garlic and ginger."
+    },
+    {
+      "id": 4,
+      "name": "Huangmenji, Braised Chicken Rice",
+      "price": 30,
+      "description": "A scrumptious Chinese dish that combines tender chicken with spicy peppers and perfectly cooked rice."
+    }
+  ]
+  
